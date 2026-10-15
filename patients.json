@@ -1,0 +1,113 @@
+
+[
+  {
+    "patient_id": 1,
+    "name": "Rahul Sharma",
+    "age": 28,
+    "gender": "Male",
+    "disease": "Fever",
+    "phone": "9000000001",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.51
+  },
+  {
+    "patient_id": 2,
+    "name": "Priya Patil",
+    "age": 34,
+    "gender": "Female",
+    "disease": "Diabetes",
+    "phone": "9000000002",
+    "height": 160,
+    "weight": 68,
+    "bmi": 26.56
+  },
+  {
+    "patient_id": 3,
+    "name": "Amit Verma",
+    "age": 45,
+    "gender": "Male",
+    "disease": "Hypertension",
+    "phone": "9000000003",
+    "height": 178,
+    "weight": 85,
+    "bmi": 26.83
+  },
+  {
+    "patient_id": 4,
+    "name": "Sneha Joshi",
+    "age": 22,
+    "gender": "Female",
+    "disease": "Migraine",
+    "phone": "9000000004",
+    "height": 165,
+    "weight": 55,
+    "bmi": 20.20
+  },
+  {
+    "patient_id": 5,
+    "name": "Rohan Kulkarni",
+    "age": 51,
+    "gender": "Male",
+    "disease": "Asthma",
+    "phone": "9000000005",
+    "height": 172,
+    "weight": 90,
+    "bmi": 30.42
+  },
+  {
+    "patient_id": 6,
+    "name": "Pooja Deshmukh",
+    "age": 30,
+    "gender": "Female",
+    "disease": "Anemia",
+    "phone": "9000000006",
+    "height": 158,
+    "weight": 52,
+    "bmi": 20.83
+  },
+  {
+    "patient_id": 7,
+    "name": "Vikram Singh",
+    "age": 39,
+    "gender": "Male",
+    "disease": "Back Pain",
+    "phone": "9000000007",
+    "height": 180,
+    "weight": 95,
+    "bmi": 29.32
+  },
+  {
+    "patient_id": 8,
+    "name": "Neha Gupta",
+    "age": 26,
+    "gender": "Female",
+    "disease": "Allergy",
+    "phone": "9000000008",
+    "height": 162,
+    "weight": 58,
+    "bmi": 22.10
+  },
+  {
+    "patient_id": 9,
+    "name": "Sagar Pawar",
+    "age": 62,
+    "gender": "Male",
+    "disease": "Arthritis",
+    "phone": "9000000009",
+    "height": 168,
+    "weight": 78,
+    "bmi": 27.64
+  },
+  {
+    "patient_id": 10,
+    "name": "Anjali More",
+    "age": 41,
+    "gender": "Female",
+    "disease": "Thyroid Disorder",
+    "phone": "9000000010",
+    "height": 166,
+    "weight": 64,
+    "bmi": 23.23
+  }
+]
