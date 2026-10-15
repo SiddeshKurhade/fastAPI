@@ -44,6 +44,11 @@ insert_patient_data(patient1)
 def update_patient(patient:Patient):
     print(patient.name)
     print(patient.age)
+    print(patient.allergies)
+    print(patient.allergies[0])
+    print(patient.married)
+    print(patient.contact_details)
+    print(patient.contact_details['email'])
     print('update patient successfully!')
 
 update_patient(patient1)
